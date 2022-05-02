@@ -1,25 +1,26 @@
 {
-  "version_code": 1,
-  "redirect_mode": false,
-  "new_package": "com.one.two.three",
-  "applovin_ads": false,
-  "remot_ads": true,
-  "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
-  "admob_banner": "ca-app-pub-3940256099942544/6300978111",
-  "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
-  "applovin_sdk": "L_FbE_Zi2p7792-AmZZKWRu2GuiCkI-T2OPgerK0giHARpSG5qSNMsWrZQMHIsVUTf1BRNJDiL951ZTR3hP4aQ",
-  "applovin_interstitial": "6a1e97e46e9b13e0",
-  "applovin_banner": "",
-  "content": [
-    {
-      "id": 1,
-      "name": "English",
-      "data_url": "https://raw.githubusercontent.com/fransto1/devfnf/main/sakura-data-en.json"
-    },
-    {
-      "id": 2,
-      "name": "Indonesia",
-      "data_url": "https://raw.githubusercontent.com/fransto1/devfnf/main/sakura-data-id.json"
-    }
-  ]
+	"config": [{
+		"version_code": 1,
+		"redirect_mode": false,
+		"new_package": "com.one.two.three",
+		"applovin_ads": false,
+		"remot_ads": true,
+		"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+		"admob_banner": "ca-app-pub-3940256099942544/6300978111",
+		"admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
+		"applovin_sdk": "L_FbE_Zi2p7792-AmZZKWRu2GuiCkI-T2OPgerK0giHARpSG5qSNMsWrZQMHIsVUTf1BRNJDiL951ZTR3hP4aQ",
+		"applovin_interstitial": "6a1e97e46e9b13e0",
+		"applovin_banner": ""
+		}],
+	"content": [{
+			"id": 1,
+			"name": "English",
+			"data_url": "https://raw.githubusercontent.com/fransto1/devfnf/main/sakura-data-en.json"
+		},
+		{
+			"id": 2,
+			"name": "Indonesia",
+			"data_url": "https://raw.githubusercontent.com/fransto1/devfnf/main/sakura-data-id.json"
+		}
+	]
 }
