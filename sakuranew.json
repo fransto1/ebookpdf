@@ -3,7 +3,7 @@
 		"redirect_mode": false,
 		"new_package": "com.one.two.three",
 		"applovin_ads": false,
-		"remot_ads": false,
+		"remot_ads": true,
 
 		"admob_app_id": "ca-app-pub-3940256099942544~3347511713",
 		"admob_banner": "ca-app-pub-3940256099942544/6300978111",
